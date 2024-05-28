@@ -1,0 +1,42 @@
+ #cla{
+   background-color: rgb(240, 240, 242);
+}
+a{
+    text-decoration: none;
+}
+button{
+    width: 75px;
+    border-radius: 10px;
+    background-color: rgb(182, 148, 36);
+    text-align: center;
+   
+    margin-top: 12px;
+}
+.btnload{
+    margin-top: 51px;
+}
+.btnload:hover{
+    
+ background-color: rgb(33, 133, 88);
+ color:whitesmoke;
+}
+td{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    font-size: medium;
+    color: rgb(95, 112, 125);
+}
+th{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-style: initial;
+    color: black;
+}
+tr{
+    height: 50px;
+    text-align: left;
+    border:  solid 0.1px rgb(244, 244, 244);
+}
+tr:hover{
+    background: rgb(231, 228, 235);
+}
