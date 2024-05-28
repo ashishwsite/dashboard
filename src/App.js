@@ -137,14 +137,14 @@ function App() {
         <img src="https://c0.wallpaperflare.com/preview/227/603/787/arrow-bank-banking-bar.jpg"style={{width:'40%', height:"300px", padding:"15px", borderRadius:'30px'}}/>
         <img src="https://c1.wallpaperflare.com/preview/634/496/50/refugees-economic-migrants-financial-equalization-help.jpg"  style={{width:'40%', height:"300px", padding:"15px", borderRadius:'30px' }} />
         </div>
-        <div className="continer">
+        {/* <div className="continer">
         <h1 className="leaderheading"
           // style={{ textAlign: "center", marginTop: "5px", marginBottom: "7px", fontFamily:'monospace' }}
         >
           {" "}
           LeaderBoard
         </h1>
-      </div>
+      </div> */}
       <DataDis/>
     </>
   );
